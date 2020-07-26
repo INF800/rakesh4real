@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Asapanna Rakesh</h1>
+<h3 align="center">I am a Programmer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /> </p>
 
 <!--
 **rakesh4real/rakesh4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
