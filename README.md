@@ -1,6 +1,5 @@
-
-
-<h3 align="center" style='text-shadow: 2px 2px #ff0000;' >I am a Programmer</h3>
+<h3 align="center">I am a Programmer </h3>
+<p align='center'>Check out projects tab above. Feel free to submit PRs or contact me.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /> </p>
 
 <!--
