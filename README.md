@@ -7,12 +7,13 @@
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=rakesh4real&show_icons=true" alt="https://github.com/rakesh4real" /> </p>
 </p>
 
+<!--
 <p align="center">
 <a href="https://twitter.com/rakesh4real" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/rakesh4real" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/rakesh4real/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rakesh4real/" height="20" width="20" /></a>
 <a href="https://kaggle.com/rakesh4real" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/rakesh4real" height="20" width="20" /></a>
 </p>
-
+-->
 
 
 <!--
