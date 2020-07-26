@@ -2,7 +2,9 @@
 <h3 align="center">I am a Programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /> </p>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=rakesh4real&show_icons=true" alt="https://github.com/rakesh4real" /> </p>
+<p align="center">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=rakesh4real&show_icons=true" alt="https://github.com/rakesh4real" /> </p>
+</p>
 
 <p align="center">
 <a href="https://twitter.com/rakesh4real" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/rakesh4real" height="20" width="20" /></a>
