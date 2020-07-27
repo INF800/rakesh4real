@@ -1,5 +1,5 @@
 <h3 align="center">I am a Programmer. I am.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /> </p>
+<p align="center" bgcolor="green"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /></p>
 
 <a href='https://rakesh4real.github.io/tictactoe/'>Play Tic-Tac-Toe powered by mimimax algorithm</a>
 
