@@ -1,4 +1,4 @@
-> "The code you write tells how much you care about it."
+> *"Knowledge changes Fate"*
 
 <p align="left" bgcolor="green"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /></p>
 <p align="left"> <a href='https://rakesh4real.github.io'>Know more about me >> </a> </p>
