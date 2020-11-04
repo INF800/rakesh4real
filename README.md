@@ -1,4 +1,3 @@
-> ### *There are no ordinary moments*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4real" alt="https://github.com/rakesh4real" /></p>
 <p align="left"> <a href='https://rakesh4real.github.io'>Know more about me >> </a> </p>
